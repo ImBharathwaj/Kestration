@@ -9,6 +9,14 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+dagster_env/
+target/
+dbt_packages/
+logs/
+__pycache__/
+logs/
+dev.duckdb/
+profiles.yml/
 develop-eggs/
 dist/
 downloads/
